@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,9 +26,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
