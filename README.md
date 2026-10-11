@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0069-sqrtx) |
+| [0410-split-array-largest-sum](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -36,4 +38,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
