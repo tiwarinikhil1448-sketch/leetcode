@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -23,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0410-split-array-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/tiwarinikhil1448-sketch/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
